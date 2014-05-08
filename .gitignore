@@ -14,7 +14,8 @@ gnore Visual Studio temporary files, build results, and
 x64/
 build/
 bld/
-[Bb]in/
+[Bb]in/[Dd]ebug/*.*
+[Bb]in/Rr]elease/*.*
 [Oo]bj/
 
 # Roslyn cache directories
